@@ -11,3 +11,5 @@
 | Micka LOUIS | *[Micka LOUIS]( )* |
 | **Vilmarson JULES** | **[Vilmarson JULES](https://www.linkedin.com/in/jules-vilmarson-2a68a5294/)** |
 > # **Ayiti AI Hackathon - 2025**
+
+---
