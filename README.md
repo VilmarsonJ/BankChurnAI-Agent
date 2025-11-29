@@ -5,18 +5,10 @@
 ### Réalisé par IMPACTIS dans le cadre de l'**Ayiti AI Hackathon - 2025**
 ---
 
-| Membre d'IMPACTIS | Contact - LinkedIn|
-| :--- | :--- |
-| Riché FLEURINORD | *[Riché FLEURINORD]( )* |
-| Micka LOUIS | *[Micka LOUIS]( )* |
-| **Vilmarson JULES** | **[Vilmarson JULES](https://www.linkedin.com/in/jules-vilmarson-2a68a5294/)**
-
-
-
 ### 🧑‍🤝‍🧑 L'Équipe IMPACTIS & Rôles Clés
 
 | Membre | Rôle dans le Projet | Contact (LinkedIn) |
 | :--- | :--- | :--- |
-| **Riché FLEURINORD** | **Lead ML & Architecture IA** | *[Lien LinkedIn](https://www.linkedin.com/in/jules-vilmarson-2a68a5294/)* |
-| **Micka LOUIS** | **Ingénieur Systèmes & Intégration IA** | *[Lien LinkedIn](https://www.linkedin.com/in/jules-vilmarson-2a68a5294/)* |
-| **Vilmarson JULES** | **Spécialiste Data & Dashboard (Responsable GitHub)** | **[Lien LinkedIn](https://www.linkedin.com/in/jules-vilmarson-2a68a5294/)** |
+| **Riché FLEURINORD** | **Lead ML & Architecture IA** | ***[Riché-LinkedIn](https://www.linkedin.com/in/jules-vilmarson-2a68a5294/)*** |
+| **Micka LOUIS** | **Ingénieur Systèmes & Intégration IA** | ***[Micka-LinkedIn](https://www.linkedin.com/in/jules-vilmarson-2a68a5294/)*** |
+| **Vilmarson JULES** | **Spécialiste Data & Dashboard (Responsable GitHub)** | ***[Vilmarson-LinkedIn](https://www.linkedin.com/in/jules-vilmarson-2a68a5294/)*** |
