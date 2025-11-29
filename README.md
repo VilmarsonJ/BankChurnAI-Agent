@@ -3,9 +3,9 @@
 ---
 ### ***Agent IA collaboratif pour le secteur financier haïtien, qui prédit le risque de départ client, et génère des stratégies de fidélisation automatiques en français et en créole.***
 
-### Realise par l'IMPACTIS dans le cadre d'AYITI Hackathon - 2025
+### Realise par l'IMPACTIS dans le cadre d'**AYITI Hackathon - 2025**
 
-| Membre | Contact - LinkedIn|
+| Membre d'IMPACTIS | Contact - LinkedIn|
 | :--- | :--- |
 | Riché FLEURINORD | *[Riché FLEURINORD]( )* |
 | Micka LOUIS | *[Micka LOUIS]( )* |
