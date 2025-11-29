@@ -12,9 +12,15 @@
 
 # 🇭🇹 IMPACTIS BankChurnAI Agent
 
-> **Agent IA collaboratif pour le secteur financier haïtien. Il prédit le risque de départ client, analyse les causes et génère des stratégies de fidélisation automatiques en français et en créole. Maximisez la rétention !**
-
+# 🇭🇹 IMPACTIS BankChurnAI Agent
+> **Agent IA collaboratif pour le secteur financier haïtien. 
 ---
+
+### 🏆 Contexte du Projet
+
+| Événement | Équipe | Thème Principal | Statut Actuel |
+| :--- | :--- | :--- | :--- |
+| **Ayiti AI Hackathon 2025** | **IMPACTIS** | Innovation Ouverte : L'IA pour l'avenir d'Haïti | 🔴 EN COURS (48 Heures) |
 
 ### 🏆 Contexte du Projet
 
