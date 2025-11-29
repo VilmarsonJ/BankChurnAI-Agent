@@ -8,3 +8,26 @@
 > - ### **Lien GitHub du projet :** [Haiti BankChurnAI-Agent](https://github.com/VilmarsonJ/BankChurnAI-Agent.git)
 > - # **Ayiti AI Hackathon - 2025 **
 ---
+
+
+# 🇭🇹 IMPACTIS BankChurnAI Agent
+
+> **Agent IA collaboratif pour le secteur financier haïtien. Il prédit le risque de départ client, analyse les causes et génère des stratégies de fidélisation automatiques en français et en créole. Maximisez la rétention !**
+
+---
+
+### 🏆 Contexte du Projet
+
+| Événement | Équipe | Thème Principal | Statut Actuel |
+| :--- | :--- | :--- | :--- |
+| **Ayiti AI Hackathon 2025** | **IMPACTIS** | Innovation Ouverte : L'IA pour l'avenir d'Haïti | 🔴 EN COURS (48 Heures) |
+
+### 🧑‍🤝‍🧑 L'Équipe & Rôles
+
+| Rôle | Membre | Contact (LinkedIn/GitHub) |
+| :--- | :--- | :--- |
+| **Lead ML & Architecture IA** | Riché FLEURINORD | *[Lien Riché (À ajouter)]* |
+| **Ingénieur Systèmes & Intégration IA** | Micka LOUIS | *[Lien Micka (À ajouter)]* |
+| **Spécialiste Data & Dashboard** | **Vilmarson JULES (Vous)** | **[Votre Lien LinkedIn]** |
+
+---
