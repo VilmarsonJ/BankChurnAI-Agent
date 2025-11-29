@@ -1,4 +1,7 @@
 # **Haiti BankChurnAI-Agent**
+# 🇭🇹 IMPACTIS BankChurnAI Agent
+
+
 
 # **Ayiti AI Hackathon - 2025 **
 ---
@@ -13,8 +16,17 @@
 # 🇭🇹 IMPACTIS BankChurnAI Agent
 
 # 🇭🇹 IMPACTIS BankChurnAI Agent
-> **Agent IA collaboratif pour le secteur financier haïtien. 
+> **Agent IA collaboratif pour le secteur financier haïtien. Il prédit le risque de départ client, analyse les causes et génère des stratégies de fidélisation automatiques en français et en créole. Maximisez la rétention !**
 ---
+
+### 🧑‍🤝‍🧑 Travail realise par l'Équipe IMPACTIS
+
+| Membre | Contact (LinkedIn/GitHub) |
+| :--- | :--- | :--- |
+| ** Riché FLEURINORD | *[Lien Riché (À ajouter)]* |
+| ** | Micka LOUIS | *[Lien Micka (À ajouter)]* |
+| **Vilmarson JULES ** | **[[Votre Lien LinkedIn](https://www.linkedin.com/in/jules-vilmarson-2a68a5294/)]** |
+
 
 ### 🏆 Contexte du Projet
 
