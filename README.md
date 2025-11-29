@@ -10,3 +10,5 @@
 | **Riché FLEURINORD** | **Lead ML & Architecture IA** | ***[Riché-LinkedIn](https://www.linkedin.com/in/jules-vilmarson-2a68a5294/)*** |
 | **Micka LOUIS** | **Ingénieur Systèmes & Intégration IA** | ***[Micka-LinkedIn](https://www.linkedin.com/in/jules-vilmarson-2a68a5294/)*** |
 | **Vilmarson JULES** | **Spécialiste Data & Dashboard (Responsable GitHub)** | ***[Vilmarson-LinkedIn](https://www.linkedin.com/in/jules-vilmarson-2a68a5294/)*** |
+
+---
