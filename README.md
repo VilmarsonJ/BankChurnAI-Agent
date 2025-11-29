@@ -17,6 +17,6 @@
 
 | Membre | Rôle dans le Projet | Contact (LinkedIn) |
 | :--- | :--- | :--- |
-| **Riché FLEURINORD** | **Lead ML & Architecture IA** | *[Lien LinkedIn]* |
-| **Micka LOUIS** | **Ingénieur Systèmes & Intégration IA** | *[Lien LinkedIn]* |
-| **Vilmarson JULES** | **Spécialiste Data & Dashboard (Responsable GitHub)** | **[Votre Lien LinkedIn]** |
+| **Riché FLEURINORD** | **Lead ML & Architecture IA** | *[Lien LinkedIn](https://www.linkedin.com/in/jules-vilmarson-2a68a5294/)* |
+| **Micka LOUIS** | **Ingénieur Systèmes & Intégration IA** | *[Lien LinkedIn](https://www.linkedin.com/in/jules-vilmarson-2a68a5294/)* |
+| **Vilmarson JULES** | **Spécialiste Data & Dashboard (Responsable GitHub)** | **[Lien LinkedIn](https://www.linkedin.com/in/jules-vilmarson-2a68a5294/)** |
