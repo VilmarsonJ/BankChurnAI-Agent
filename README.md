@@ -16,6 +16,4 @@
 
 ---
 
-Face à l'attrition client critique du secteur financier haïtien, **BankChurnAI Agent** propose un système d'IA pour la rétention de la clientèle. Il prédit le risque de départ client et analyse les facteurs d'influence, générant ainsi des stratégies de fidélisation automatisées et contextualisées. Ces stratégies sont délivrées en français et en créole, offrant aux institutions locales un outil unique pour stabiliser leur portefeuille et maximiser la croissance.
-
-
+Face à l'attrition client critique du secteur financier haïtien, **BankChurnAI Agent** est un Agent IA collaboratif pour la rétention de la clientèle. ***Il prédit le risque de départ client et analyse les facteurs d'influence, générant ainsi des stratégies de fidélisation automatisées et contextualisées pour le secteur bancaire haïtien.*** Ces stratégies sont délivrées en français et en créole, offrant aux institutions financières locales un outil unique pour stabiliser leur portefeuille et maximiser la croissance.
