@@ -1,7 +1,6 @@
 # **🇭🇹 BankChurnAI Agent**
 
----
-### ***Agent IA collaboratif pour le secteur financier haïtien, qui prédit le risque de départ client, et génère des stratégies de fidélisation automatiques en français et en créole.***
+### **Agent IA collaboratif pour le secteur financier haïtien, prédisant le risque de départ client et générant des stratégies de fidélisation automatiques en français et en créole.**
 #### Réalisé par IMPACTIS dans le cadre de l'**Ayiti AI Hackathon - 2025**
 
 
