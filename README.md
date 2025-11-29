@@ -29,9 +29,9 @@
 
 | Membre | Contact (LinkedIn/GitHub) |
 | :--- | :--- |
-| Riché FLEURINORD | *[Lien Riché (À ajouter)]* |
-| Micka LOUIS | *[Lien Micka (À ajouter)]* |
-| **Vilmarson JULES (Vous)** | **[Votre Lien LinkedIn]** |
+| Riché FLEURINORD | *[Riché FLEURINORD] (À ajouter)]* |
+| Micka LOUIS | *[Micka LOUIS] (À ajouter)]* |
+| **Vilmarson JULES** | **[Vilmarson JULES](https://www.linkedin.com/in/jules-vilmarson-2a68a5294/)** |
 
 
 ### 🏆 Contexte du Projet
