@@ -4,7 +4,6 @@
 ### ***Agent IA collaboratif pour le secteur financier haïtien, qui prédit le risque de départ client, et génère des stratégies de fidélisation automatiques en français et en créole.***
 ### Réalisé par IMPACTIS dans le cadre de l'**Ayiti AI Hackathon - 2025**
 
-### 🧑‍🤝‍🧑 L'Équipe IMPACTIS & Rôles Clés
 
 | Membre | Rôle dans le Projet | Contact (LinkedIn) |
 | :--- | :--- | :--- |
